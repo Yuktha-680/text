@@ -1,10 +1,10 @@
-const int trigLeft = D1;
+ int trigLeft = D1;
 const int echoLeft = D2;
 
 const int trigRight = D5;
 const int echoRight = D6;
 
-const int threshold = 10;
+const int threshold = 10;const
 
 void setup() {
   Serial.begin(9600);
